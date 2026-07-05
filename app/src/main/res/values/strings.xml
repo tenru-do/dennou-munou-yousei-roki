@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Roki</string>
+    <string name="notification_title">Roki</string>
+    <string name="notification_text">Living quietly in Rokid glasses</string>
+</resources>
