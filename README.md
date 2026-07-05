@@ -32,7 +32,7 @@ Launching Roki again works as a simple toggle:
 Install the debug APK on Rokid glasses:
 
 ```powershell
-adb install -r Roki-v0.1.8-debug.apk
+adb install -r dist/Roki-v0.1.8-debug.apk
 ```
 
 Then allow "Display over other apps" for Roki if Android asks for overlay permission.
